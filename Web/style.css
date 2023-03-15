@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: solid green;
+
+}
+
+aside{
+    color: green
+}
+
+address{
+    text-align: center;
+}
+
+ul{
+    color: green;
+}
+
+.foto-perfil{
+    width: 150px;
+    height: 150px;
+}
+
+footer{
+    color: pink;
+}
